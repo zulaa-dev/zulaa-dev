@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://youtu.be/72DMrkE8jks?si=5lLV6oNJGPwdp99T" target="_blank">
-    <img src="<img width="736" height="473" alt="_ (5)" src="https://github.com/user-attachments/assets/a786238f-720a-4c33-a16b-9ab69b0bac22" />
+    <img src="<img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="<img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />
+  </a>" width="190" />
+  </a>" alt="Video 2" width="190" />
+  </a>
 " alt="Video 1" width="190" />
   </a>
   <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">

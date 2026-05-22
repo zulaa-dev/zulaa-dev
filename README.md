@@ -11,7 +11,7 @@
     <img src="https://i.pinimg.com/736x/78/9d/c0/789dc0bf7a642fafb509d1a6485464c4.jpg" alt="Video 3" width="190" />
   </a>
   <a href="https://youtu.be/a7lNoNg6d7k?si=hp6IVJFVrrB1vc4r" target="_blank">
-    <img src="https://i.pinimg.com/736x/9c/5b/63/9c5b63277970d2623a8b9b1edce966b1.jpg" alt="Video 4" width="190" />
+    <img src="https://i.pinimg.com/736x/a1/c3/95/a1c3953a6ae83816ed1a11f02330d954.jpg" alt="Video 4" width="190" />
   </a>
 </p>
 

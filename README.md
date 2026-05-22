@@ -1,8 +1,8 @@
 ## 🎧 Listen, chill and focus coding
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Gu-g8FRG4Zs" target="_blank">
-    <img src="https://img.youtube.com/vi/Gu-g8FRG4Zs/hqdefault.jpg" alt="Video 1" width="190" />
+  <a href="https://youtu.be/72DMrkE8jks?si=5lLV6oNJGPwdp99T" target="_blank">
+    <img src="https://pin.it/71eCUzrIY" alt="Video 1" width="190" />
   </a>
   <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
     <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />
@@ -20,7 +20,7 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Baljir!;Full-Stack+Developer;JLPT+N2+Certified;Deploying+for+Japan"
+    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Zulaa;Full-Stack+Developer;JLPT+N2+Certified;Deploying+for+Japan"
     alt="Typing SVG"
   />
 </p>

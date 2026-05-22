@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JLPT-N3-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
-  <img src="https://img.shields.io/badge/PJC-B%20N2%20N1-blue?style=for-the-badge&logo=japanese&logoColor=white" />
+  <img src="https://img.shields.io/badge/PJC-B%20N2-%20N1-blue?style=for-the-badge&logo=japanese&logoColor=white" />
 </p>
 
 ---

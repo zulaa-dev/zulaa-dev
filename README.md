@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/72DMrkE8jks?si=IOblJYLLxTGrF--S" target="_blank">
-    <img src="https://pin.it/57pUePHGC" alt="Video 1" width="190" />
+    <img src="https://i.pinimg.com/736x/0d/4a/17/0d4a170918625ad680078ecae674f0aa.jpg" alt="Video 1" width="190" />
   </a>
   <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
     <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />

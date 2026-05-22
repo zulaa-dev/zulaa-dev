@@ -1,5 +1,5 @@
-## Hi there 👋
-<p align="center">  
+
+
 
 <h1 align="center">Hi, I'm Munkhzul 👋</h1>
 

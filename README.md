@@ -19,7 +19,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=32&pause=1000&color=FFB6C1&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Zulaa+%F0%9F%8C%B8;Learning+Web+Development+%F0%9F%92%BB;Coffee+%2B+Code+%E2%98%95;From+Mongolia+to+Japan+%F0%9F%87%B2%F0%9F%87%B3+%E2%86%92+%F0%9F%87%AF%F0%9F%87%B5"
+    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=32&pause=1000&color=FFB6C1&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Zulaa+%F0%9F%8C%B8;Learning+Web+Development+%F0%9F%92%BB;Coffee+%2B+Code+%E2%98%95;From+Mongolia+to+Japan+%F0%9F%87%B2%F0%9F%87%B3+%E2%86%92+%F0%9F%87%AF%F0%9F%87%B5;JLPT+N3+Certified"
     alt="Typing SVG"
   />
 </p>

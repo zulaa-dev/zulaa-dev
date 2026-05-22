@@ -8,10 +8,10 @@
     <img src="https://i.pinimg.com/736x/83/40/5a/83405afcc890423a6205cdcae6ae136f.jpg" alt="Video 2" width="190" />
   </a>
   <a href="https://youtu.be/ES7SOJkC6Xo?si=qxALOsQhM7CJbpYa" target="_blank">
-    <img src="https://img.youtube.com/vi/EtD7_8kCMHA/hqdefault.jpg" alt="Video 3" width="190" />
+    <img src="https://i.pinimg.com/736x/78/9d/c0/789dc0bf7a642fafb509d1a6485464c4.jpg" alt="Video 3" width="190" />
   </a>
-  <a href="https://www.youtube.com/watch?v=FtukH_bCDHg" target="_blank">
-    <img src="https://img.youtube.com/vi/FtukH_bCDHg/hqdefault.jpg" alt="Video 4" width="190" />
+  <a href="https://youtu.be/a7lNoNg6d7k?si=hp6IVJFVrrB1vc4r" target="_blank">
+    <img src="https://i.pinimg.com/736x/9c/5b/63/9c5b63277970d2623a8b9b1edce966b1.jpg" alt="Video 4" width="190" />
   </a>
 </p>
 

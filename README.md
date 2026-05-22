@@ -1,16 +1,26 @@
 ## Hi there 👋
+<p align="center">
+  <img src="deer-github.png" width="220" alt="Cute GitHub Deer" />
+</p>
 
-<!--
-**zulaa-dev/zulaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Munkhzul 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌱 Learning Full Stack Development <br/>
+  💻 HTML | CSS | JavaScript | GitHub <br/>
+  🇲🇳 Mongolian living in Japan 🇯🇵
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🦌 About me
+- 🔭 I’m currently learning web development
+- 🌸 I like creating beautiful websites
+- 📚 I’m improving my coding skills step by step
+- ✨ My goal is to become a Full Stack Developer
+
+---
+
+### 🛠 Skills
+```html
+HTML • CSS • JavaScript • GitHub • VS Code

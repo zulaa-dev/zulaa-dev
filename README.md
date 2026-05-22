@@ -46,6 +46,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JLPT-N3-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
   <img src="https://img.shields.io/badge/PJC-B-blue?style=for-the-badge&logo=japanese&logoColor=white" />
+  <img src="https://img.shields.io/badge/GHR-Business%20Test%20Grade%203-purple?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/簿記-Test%203級-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 ---

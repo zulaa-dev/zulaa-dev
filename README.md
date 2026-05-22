@@ -6,7 +6,7 @@
   />
 </p>
 
-## 🎧 Listen, chill and focus coding
+## 🎧 Coding MOOD playlist
 
 <p align="center">
   <a href="https://youtu.be/72DMrkE8jks?si=IOblJYLLxTGrF--S" target="_blank">

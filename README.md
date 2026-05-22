@@ -1,7 +1,8 @@
 ## 🎧 Listen, chill and focus coding
 
 <p align="center">
-  <a href="https://youtu.be/72DMrkE8jks?si=5lLV6oNJGPwdp99T" alt="Video 1" width="190" />
+  <a href="https://youtu.be/72DMrkE8jks?si=IOblJYLLxTGrF--S" target="_blank">
+    <img src="https://pin.it/57pUePHGC" alt="Video 1" width="190" />
   </a>
   <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
     <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />
@@ -80,27 +81,8 @@ If you find my work helpful, consider buying me a coffee!
 
 ---
 
-## 🌍 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [🌐 Kittokatsu.pro](https://kittokatsu.pro) | JLPT N1/N2 vocabulary learning for Mongolian speakers |
-| [🧠 Coding Platform](https://hellobraincode.com) | Online coding platform for Mongolians in Japan |
-| [🏗 Dynamic Homepage](https://baljir0901.github.io/homies-website/) | Construction company homepage built with React |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 GitHub Profile Summary
 

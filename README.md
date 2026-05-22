@@ -72,9 +72,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://youtube.com/@baljiRRR"><img src="https://img.shields.io/badge/YouTube-Kittokatsu-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://baljir.org"><img src="https://img.shields.io/badge/Website-baljir.org-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:baljir0901@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:zulaasososo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 

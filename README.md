@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/72DMrkE8jks?si=IOblJYLLxTGrF--S" target="_blank">
-    <img src="https://i.pinimg.com/736x/0d/4a/17/0d4a170918625ad680078ecae674f0aa.jpg" alt="Video 1" width="190" />
+    <img src="https://i.pinimg.com/736x/d6/23/e6/d623e6c453f79c4a95a84e689569a347.jpg" alt="Video 1" width="190" />
   </a>
   <a href="https://youtu.be/mYFaghHyMKc?si=Ltzl3qmbfxRG5gH1" target="_blank">
     <img src="https://i.pinimg.com/736x/83/40/5a/83405afcc890423a6205cdcae6ae136f.jpg" alt="Video 2" width="190" />

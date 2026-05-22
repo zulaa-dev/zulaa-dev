@@ -1,12 +1,7 @@
 ## 🎧 Listen, chill and focus coding
 
 <p align="center">
-  <a href="https://youtu.be/72DMrkE8jks?si=5lLV6oNJGPwdp99T" target="_blank">
-    <img src="<img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="<img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />
-  </a>" width="190" />
-  </a>" alt="Video 2" width="190" />
-  </a>
-" alt="Video 1" width="190" />
+  <a href="https://youtu.be/72DMrkE8jks?si=5lLV6oNJGPwdp99T" alt="Video 1" width="190" />
   </a>
   <a href="https://www.youtube.com/watch?v=jFK8SoQJqAQ" target="_blank">
     <img src="https://img.youtube.com/vi/jFK8SoQJqAQ/hqdefault.jpg" alt="Video 2" width="190" />

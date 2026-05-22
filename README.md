@@ -5,6 +5,7 @@
     alt="Animated Banner"
   />
 </p>
+
 ## 🎧 Listen, chill and focus coding
 
 <p align="center">
@@ -80,5 +81,10 @@
 <p align="center">
   <a href="mailto:zulaasososo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+<!-- Footer Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:F78C6B,100:8A2BE2&height=140&section=footer"
+  />
+</p>
 

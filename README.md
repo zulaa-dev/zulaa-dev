@@ -20,7 +20,7 @@
 <!-- Typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=38&pause=1000&color=F78C6B&center=true&vCenter=true&width=700&lines=Hi+I'm+Zulaa;Learning+Full+Stack+Development;JLPT+N3+Certified;Mongolian+living+in+Japan"
+    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=34&pause=1000&color=F78C6B&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Zulaa+%F0%9F%91%8B;Future+Full+Stack+Developer+%F0%9F%92%BB;Assistant+Manager+in+Food+Service+%F0%9F%8D%9C;Mongolian+Living+in+Japan+%F0%9F%87%B2%F0%9F%87%B3+%F0%9F%87%AF%F0%9F%87%B5;Learning+Step+by+Step+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>

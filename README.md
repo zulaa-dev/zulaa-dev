@@ -30,7 +30,8 @@
 - 💼 working assistant manager in Japan 🇯🇵  
 - 🔭 I’m currently learning web development
 - 🌱 Studying JLPT N1 + Full-Stack Developer   
-- 🎓 Teacher-researcher Mongolian language and literature; international IT Business 
+- 🎓 Teacher-researcher Mongolian language and literature; international IT Business
+- ✨ Building my coding skills step by step
 
 ---
 
@@ -62,7 +63,7 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JLPT-N3-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
 ---

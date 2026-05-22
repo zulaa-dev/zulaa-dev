@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi, I'm Munkhzul 👋</h1>
+<h1 align="center">Hi, I'm Zulaa 👋</h1>
 
 <p align="center">
   🌱 Learning Full Stack Development <br/>

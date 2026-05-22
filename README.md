@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="deer-github.png" width="220" alt="Cute GitHub Deer" />
-</p>
+<p align="center">  
 
 <h1 align="center">Hi, I'm Munkhzul 👋</h1>
 

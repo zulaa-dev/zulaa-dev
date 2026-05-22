@@ -27,11 +27,10 @@
  
 ## 👨‍💻 About Me
 
-- 💼 Former Engineer & Business Manager in Japan 🇯🇵  
-- 💡 Experience installing LED servers at Japan’s biggest domes  
-- 🌱 Studying JLPT N1 + Advanced React/Next.js  
-- 🌐 Building learning platforms for Mongolian students in Japan  
-- 🎓 MBA + Mining Engineer + Full-Stack Developer  
+- 💼 working assistant manager in Japan 🇯🇵  
+- 🔭 I’m currently learning web development
+- 🌱 Studying JLPT N1 + Full-Stack Developer   
+- 🎓 Teacher-researcher Mongolian language and literature; international IT Business 
 
 ---
 
